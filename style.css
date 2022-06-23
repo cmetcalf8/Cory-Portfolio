@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(95, 171, 190);
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(152, 136, 152);
+    display: inline;
+}
