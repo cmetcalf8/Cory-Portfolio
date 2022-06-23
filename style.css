@@ -4,10 +4,12 @@ body {
 
 header {
     text-align: center;
+    font-size: x-large;
 }
 
 nav {
-    float: right;
+    text-align: center;
+    margin: 10px;
 }
 
 nav a {
@@ -15,4 +17,40 @@ nav a {
     padding: 8px;
     background-color: rgb(152, 136, 152);
     display: inline;
+}
+
+.aboutme {
+    border-style: ridge;
+    border-width: 5px;
+    padding: 5px;
+    max-width: 1000px;
+}
+
+.qualtrics {
+
+}
+
+.bottle {
+
+}
+
+.mortgage {
+
+}
+
+section {
+
+}
+
+img {
+    border-style: solid;
+    margin: 10px;
+}
+
+footer {
+    padding: 50px;
+}
+
+ul {
+    list-style: none;
 }
