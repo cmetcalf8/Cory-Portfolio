@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(95, 171, 190);
+    background-color: rgb(82, 139, 154);
 }
 
 header {
@@ -26,20 +26,37 @@ nav a {
     max-width: 1000px;
 }
 
-.qualtrics {
-
+.placeholder1 {
+    padding: 200px;
+    width: 100px;
+    height: 100px;
+    transition: transform .2s;
 }
 
-.bottle {
-
+.placeholder1:hover {
+    transform: scale(1.5);
 }
 
-.mortgage {
-
+.placeholder2 {
+    padding: 200px;
+    width: 100px;
+    height: 100px;
+    transition: transform .2s;
 }
 
-section {
+.placeholder2:hover {
+    transform: scale(1.5);
+}
 
+.placeholder3 {
+    padding: 200px;
+    width: 100px;
+    height: 100px;
+    transition: transform .2s;
+}
+
+.placeholder3:hover {
+    transform: scale(1.5);
 }
 
 img {
@@ -48,9 +65,34 @@ img {
 }
 
 footer {
-    padding: 50px;
+    padding: 10px;
 }
 
 ul {
-    list-style: none;
+    list-style: circle;
+}
+
+
+@media screen and (max-width: 992px) {
+   .placeholder1 {
+        width: 50%;
+   }
+   .placeholder2 {
+        width: 50%;
+    }
+    .placeholder3 {
+        width: 50%;
+        }
+}
+  
+@media screen and (max-width: 768px) {
+    .placeholder1{
+        width: 100%;
+    }
+    .placeholder2 {
+        width: 100%;
+   }
+   .placeholder3 {
+        width: 100%;
+    }
 }
