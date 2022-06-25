@@ -12,4 +12,4 @@
 
 ## Screenshot
 
-[screencapture-cmetcalf8-github-io-Cory-Portfolio-2022-06-25-11_47_36.pdf](https://github.com/cmetcalf8/Cory-Portfolio/files/8985307/screencapture-cmetcalf8-github-io-Cory-Portfolio-2022-06-25-11_47_36.pdf)
+[screencapture-cmetcalf8-github-io-Cory-Portfolio-2022-06-25-11_47_36.pdf](https://github.com/cmetcalf8/Cory-Portfolio/files/8985313/screencapture-cmetcalf8-github-io-Cory-Portfolio-2022-06-25-11_47_36.pdf)
