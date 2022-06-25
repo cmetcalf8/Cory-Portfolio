@@ -27,36 +27,39 @@ nav a {
 }
 
 .placeholder1 {
-    padding: 200px;
-    width: 100px;
-    height: 100px;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
     transition: transform .2s;
 }
 
 .placeholder1:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
+    width: 100px;
 }
 
 .placeholder2 {
-    padding: 200px;
-    width: 100px;
-    height: 100px;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
     transition: transform .2s;
 }
 
 .placeholder2:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
+    width: 100px;
 }
 
 .placeholder3 {
-    padding: 200px;
-    width: 100px;
-    height: 100px;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
     transition: transform .2s;
 }
 
 .placeholder3:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
+    width: 100px;
 }
 
 img {
@@ -64,35 +67,14 @@ img {
     margin: 10px;
 }
 
-footer {
-    padding: 10px;
+.contact-me {
+    padding: 20px;
 }
 
 ul {
     list-style: circle;
 }
-
-
-@media screen and (max-width: 992px) {
-   .placeholder1 {
-        width: 50%;
-   }
-   .placeholder2 {
-        width: 50%;
-    }
-    .placeholder3 {
-        width: 50%;
-        }
-}
   
 @media screen and (max-width: 768px) {
-    .placeholder1{
-        width: 100%;
-    }
-    .placeholder2 {
-        width: 100%;
-   }
-   .placeholder3 {
-        width: 100%;
-    }
+  
 }
